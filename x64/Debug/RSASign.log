@@ -1,0 +1,114 @@
+﻿  MyForm.cpp
+C:\ProgramProjects\RSASign\gmp\include\gmp.h(1785,19): warning C4244: 'return': conversion from 'mp_limb_t' to 'unsigned long', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+C:\ProgramProjects\RSASign\gmp\include\gmp.h(2230,16): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  (compiling source file 'MyForm.cpp')
+  
+C:\ProgramProjects\RSASign\gmp\include\gmpxx.h(101,26): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  (compiling source file 'MyForm.cpp')
+  
+C:\ProgramProjects\RSASign\gmp\include\gmpxx.h(155,6): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  (compiling source file 'MyForm.cpp')
+  
+C:\ProgramProjects\RSASign\gmp\include\gmpxx.h(206,24): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  (compiling source file 'MyForm.cpp')
+  
+C:\ProgramProjects\RSASign\gmp\include\gmpxx.h(278,24): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  (compiling source file 'MyForm.cpp')
+  
+C:\ProgramProjects\RSASign\gmp\include\gmpxx.h(322,24): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  (compiling source file 'MyForm.cpp')
+  
+C:\ProgramProjects\RSASign\gmp\include\gmpxx.h(330,26): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  (compiling source file 'MyForm.cpp')
+  
+C:\ProgramProjects\RSASign\gmp\include\gmpxx.h(372,37): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  (compiling source file 'MyForm.cpp')
+  
+C:\ProgramProjects\RSASign\gmp\include\gmpxx.h(407,24): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  (compiling source file 'MyForm.cpp')
+  
+C:\ProgramProjects\RSASign\gmp\include\gmpxx.h(414,24): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  (compiling source file 'MyForm.cpp')
+  
+C:\ProgramProjects\RSASign\gmp\include\gmpxx.h(442,36): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  (compiling source file 'MyForm.cpp')
+  
+C:\ProgramProjects\RSASign\gmp\include\gmpxx.h(525,20): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  (compiling source file 'MyForm.cpp')
+  
+C:\ProgramProjects\RSASign\gmp\include\gmpxx.h(570,20): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  (compiling source file 'MyForm.cpp')
+  
+C:\ProgramProjects\RSASign\gmp\include\gmpxx.h(599,19): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  (compiling source file 'MyForm.cpp')
+  
+C:\ProgramProjects\RSASign\gmp\include\gmpxx.h(667,13): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  (compiling source file 'MyForm.cpp')
+  
+C:\ProgramProjects\RSASign\gmp\include\gmpxx.h(720,20): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  (compiling source file 'MyForm.cpp')
+  
+C:\ProgramProjects\RSASign\gmp\include\gmpxx.h(764,19): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  (compiling source file 'MyForm.cpp')
+  
+C:\ProgramProjects\RSASign\gmp\include\gmpxx.h(774,16): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  (compiling source file 'MyForm.cpp')
+  
+C:\ProgramProjects\RSASign\gmp\include\gmpxx.h(1292,10): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  (compiling source file 'MyForm.cpp')
+  
+C:\ProgramProjects\RSASign\gmp\include\gmpxx.h(1593,12): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  (compiling source file 'MyForm.cpp')
+  
+C:\ProgramProjects\RSASign\gmp\include\gmpxx.h(1617,10): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  (compiling source file 'MyForm.cpp')
+  
+C:\ProgramProjects\RSASign\RSASign\GlobalVariable.h(3,28): warning C4616: #pragma warning: warning number '2020' not a valid compiler warning
+  (compiling source file 'MyForm.cpp')
+  
+C:\ProgramProjects\RSASign\RSASign\MyForm.h(9,28): warning C4616: #pragma warning: warning number '2020' not a valid compiler warning
+  (compiling source file 'MyForm.cpp')
+  
+C:\ProgramProjects\RSASign\RSASign\MyForm.h(246,35): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'MyForm.cpp')
+  
+C:\ProgramProjects\RSASign\RSASign\MyForm.h(279,33): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'MyForm.cpp')
+  
+C:\ProgramProjects\RSASign\RSASign\MyForm.cpp(7,41): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  PrimeNumberGenerator.cpp
+C:\ProgramProjects\RSASign\RSASign\GlobalVariable.h(3,28): warning C4616: #pragma warning: warning number '2020' not a valid compiler warning
+  (compiling source file 'PrimeNumberGenerator.cpp')
+  
+C:\ProgramProjects\RSASign\gmp\include\gmp.h(1785,19): warning C4244: 'return': conversion from 'mp_limb_t' to 'unsigned long', possible loss of data
+  (compiling source file 'PrimeNumberGenerator.cpp')
+  
+C:\ProgramProjects\RSASign\RSASign\PrimeNumberGenerator.cpp(3,28): warning C4616: #pragma warning: warning number '2020' not a valid compiler warning
+C:\ProgramProjects\RSASign\RSASign\PrimeNumberGenerator.cpp(20,65): warning C4244: 'argument': conversion from 'double' to 'mp_bitcnt_t', possible loss of data
+  PrivateKey.cpp
+C:\ProgramProjects\RSASign\RSASign\GlobalVariable.h(3,28): warning C4616: #pragma warning: warning number '2020' not a valid compiler warning
+  (compiling source file 'PrivateKey.cpp')
+  
+C:\ProgramProjects\RSASign\gmp\include\gmp.h(1785,19): warning C4244: 'return': conversion from 'mp_limb_t' to 'unsigned long', possible loss of data
+  (compiling source file 'PrivateKey.cpp')
+  
+  PublicKey.cpp
+C:\ProgramProjects\RSASign\RSASign\GlobalVariable.h(3,28): warning C4616: #pragma warning: warning number '2020' not a valid compiler warning
+  (compiling source file 'PublicKey.cpp')
+  
+C:\ProgramProjects\RSASign\gmp\include\gmp.h(1785,19): warning C4244: 'return': conversion from 'mp_limb_t' to 'unsigned long', possible loss of data
+  (compiling source file 'PublicKey.cpp')
+  
+  Signature.cpp
+C:\ProgramProjects\RSASign\RSASign\GlobalVariable.h(3,28): warning C4616: #pragma warning: warning number '2020' not a valid compiler warning
+  (compiling source file 'Signature.cpp')
+  
+C:\ProgramProjects\RSASign\gmp\include\gmp.h(1785,19): warning C4244: 'return': conversion from 'mp_limb_t' to 'unsigned long', possible loss of data
+  (compiling source file 'Signature.cpp')
+  
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  RSASign.vcxproj -> C:\ProgramProjects\RSASign\x64\Debug\RSASign.exe

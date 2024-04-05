@@ -1,0 +1,3 @@
+C:\ProgramProjects\RSASign\RSASign\x64\Debug\RSASign.vcxproj.AssemblyReference.cache
+C:\ProgramProjects\RSASign\RSASign\x64\Debug\RSASign.MyForm.resources
+C:\ProgramProjects\RSASign\RSASign\x64\Debug\RSASign.vcxproj.GenerateResource.cache
